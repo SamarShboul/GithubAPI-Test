@@ -1,0 +1,12 @@
+[
+	{
+		"author": "Paul1",
+		"natural_id": "blogAuthorId/blog/1",
+		"email": "person@fbs.com"
+	},
+  	{
+		"author": "Paul2",
+		"natural_id": "blogAuthorId/blog/2",
+		"email": "person@fbs.com"
+	},
+]
