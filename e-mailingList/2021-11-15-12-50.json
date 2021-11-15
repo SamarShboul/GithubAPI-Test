@@ -1,0 +1,12 @@
+[
+    {
+        "author": "user",
+        "natural_id": "blogAuthorId/blog/author/1",
+        "email": "person@forbes.com"
+    },
+    {
+        "author": "another user",
+        "natural_id": "blogAuthorId/blog/author/2",
+        "email": "person2@forbes.com"
+    }
+]
